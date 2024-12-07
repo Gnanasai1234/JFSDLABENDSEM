@@ -12,7 +12,7 @@ import com.klef.jfsd.exam.model.Order;
 import com.klef.jfsd.exam.service.OrderServiceImpl;
 
 
-@RestController
+@Controller
 public class OrderController {
 	
 	@Autowired
